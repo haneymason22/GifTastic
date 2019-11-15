@@ -1,1 +1,1 @@
-# GifTastic
+# Application where user can display selected GIFs using button presses which utilize the GIPHY API.
